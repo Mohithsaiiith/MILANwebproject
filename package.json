@@ -1,0 +1,15 @@
+{
+  "name": "google-sheets-crud",
+  "version": "1.0.0",
+  "description": "CRUD API with Google Sheets using Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "google-auth-library": "^7.0.2",
+    "googleapis": "^91.0.0"
+  }
+}
